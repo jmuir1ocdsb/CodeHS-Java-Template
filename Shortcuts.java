@@ -16,6 +16,7 @@ This list includes keyboard shortcuts for the CodeHS in-browser Java editor. The
 |                       | `Ctrl + H`                           | Open the "replace" dialog to find and replace text                                                 |
 |                       | `Ctrl + A`                           | Select all text in the editor                                                                      |
 | **Advanced Editing**  | `Alt + ↑ / Alt + ↓`                  | Move the current line or selected block up or down by one line                                     |
+|                       | `Shift + Alt + ↑ / Shift + Alt + ↓`  | Duplicate the current line or selected block up or down by one line                                |
 |                       | `Ctrl + Shift + D`                   | Duplicate the current line                                                                         |
 |                       | `Ctrl + D`                           | Delete the entire line where the cursor is located                                                 |
 | **Selection Tools**   | `Shift + Alt + ↑ / Shift + Alt + ↓`  | Add a cursor above or below for multi-cursor editing                                               |
