@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import shitfuck
 /*
  * Name: James A. Muir
  * Date: [MM/DD/YYYY]
@@ -15,7 +15,8 @@ public class MyProgram
     // Constants (if needed)
     // private static final double EXAMPLE_CONSTANT = 3.14;
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         // Program starts here
         System.out.println("Hello, world!");
     }
