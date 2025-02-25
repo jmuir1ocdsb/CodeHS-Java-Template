@@ -1,4 +1,5 @@
-import shitfuck
+import stuff
+import otherstuff
 /*
  * Name: James A. Muir
  * Date: [MM/DD/YYYY]
@@ -9,6 +10,14 @@ import shitfuck
  * Version: [1.0 or update as needed]
  * Additional Notes: [Any important details about usage, assumptions, etc.]
  * "\033[2J\033[1;1H"; clear screen command
+ *
+ * ------------------------------------------- CREDITS TO CHATGPT -----------------------------------------------------
+ * Legal Disclaimer:
+ * This code has been partially debugged and/or modified with the assistance of ChatGPT, an AI language model.
+ * While efforts have been made to ensure correctness, the author remains responsible for the final implementation, 
+ * functionality, and any potential errors. Users should review and test the code independently before use.
+ * No warranties or guarantees are provided regarding accuracy, reliability, or compliance with specific requirements.
+ * --------------------------------------------------------------------------------------------------------------------
  */
 
 public class MyProgram
