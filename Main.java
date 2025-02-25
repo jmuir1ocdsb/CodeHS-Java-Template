@@ -8,6 +8,7 @@ import shitfuck
  * Course: ICS4U-02-2025
  * Version: [1.0 or update as needed]
  * Additional Notes: [Any important details about usage, assumptions, etc.]
+ * "\033[2J\033[1;1H"; clear screen command
  */
 
 public class MyProgram
