@@ -1,6 +1,5 @@
-import stuff
-import otherstuff
-/*
+
+/* 
  * Name: James A. Muir
  * Date: [MM/DD/YYYY]
  * Language: Java (Main)
@@ -20,17 +19,12 @@ import otherstuff
  * --------------------------------------------------------------------------------------------------------------------
  */
 
-public class MyProgram
+public class Main
 {
-    // Constants (if needed)
-    // private static final double EXAMPLE_CONSTANT = 3.14;
-
     public static void main(String[] args)
     {
-        // Program starts here
-        System.out.println("Hello, world!");
+        System.out.println("Hello World!");
     }
-
     /*
      * Method Name: [Method Name]
      * Purpose: [What does this method do?]
@@ -41,19 +35,6 @@ public class MyProgram
     //     return param * 2;
     // }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
